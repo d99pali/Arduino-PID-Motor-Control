@@ -104,5 +104,3 @@ The resulting calibration data will be used to implement feedforward compensatio
 - [ ] Evaluate disturbance rejection
 
 ---
-
-**Experimental note:** Results were obtained through Tinkercad simulation. Encoder calibration is an empirical estimate and should be independently validated before treating the measured RPM values as precise physical measurements.
